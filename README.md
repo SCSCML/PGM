@@ -21,7 +21,7 @@
 
 ### Lecture
 - Stanford PGM (by Daphne Koller) [[link](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)]
-- Coursera PGM (by Daphne Koller) [[link](https://www.coursera.org/learn/probabilistic-graphical-models/) (identical to the lecture right above)
+- Coursera PGM (by Daphne Koller) [[link](https://www.coursera.org/learn/probabilistic-graphical-models/)] (identical to the lecture right above)
 
 ### Plan
 - 11/5  - Ch. 8, 9
