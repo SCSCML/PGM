@@ -30,7 +30,7 @@
 - 11/26 - Ch. 14, 17, 18
 - 12/3  - Ch. 19, 20
 - 12/10 - Ch. 21, 22, 23
-- Skip: 15 (Decision Thoery; 들었음),  16 (Andrew Ng's ML)
+- Skip: Ch. 15 (Decision Thoery; 들었음),  Ch. 16 (Andrew Ng's ML)
 
 
 
