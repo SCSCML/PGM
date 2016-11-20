@@ -25,10 +25,12 @@
 
 ### Plan (Every Saturday)
 - 11/26 - No study
-- 12/4 (SUN) - Ch. 14, 17, 18
+- 12/4 (SUN; 11:00AM) - Ch. 14, 17, 18
 - 12/10 - No study
 - 12/17 - Ch. 21, 22, 23
-- Skip: Ch. 15 (Decision Thoery; 들었음),  Ch. 16 (Andrew Ng's ML)
+
+
+- Skip: Ch. 15 (Decision Thoery; Already convered),  Ch. 16 (Andrew Ng's ML)
 
 ## Members (Introduce Yourself)
 - 조재민 (j-min)
