@@ -28,8 +28,6 @@
 - 12/4 (SUN; 11:00AM) - Ch. 14, 17, 18
 - 12/10 - No study
 - 12/17 - Ch. 21, 22, 23
-
-
 - Skip: Ch. 15 (Decision Thoery; Already convered),  Ch. 16 (Andrew Ng's ML)
 
 ## Members (Introduce Yourself)
