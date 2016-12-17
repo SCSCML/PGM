@@ -24,7 +24,7 @@
 - 12/31: Ch. 18, 19, 20, 21, 22, 23 (End of Lecture!!)
 
 ### TODO
-- HMM implementation
+- HMM (Particle Filter) implementation
 - CRF implementation
 
 ## Members (Introduce Yourself)
