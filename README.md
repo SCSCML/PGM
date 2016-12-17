@@ -9,9 +9,8 @@
 
 ### Posts/Slides/Explanations
 - dsindex's blog [[link](http://dsindex.github.io/)]
-  - [Naive Bayesian, HMM, Maximum Entropy Model, CRF](https://github.com/dsindex/blog/wiki/%5Bstatistics%5D-Naive-Bayesian,-HMM,-Maximum-Entropy-Model,-CRF)
+  - [Naive Bayesian, HMM, Maximum Entropy Model, CRF](https://github.com/dsindex/blog/wiki/%5Bstatistics%5D-Naive-Bayesian,-HMM,-Maximum-Entropy-Model,-CRF)
 
-### Codeddd
 ### Papers/Textbooks
 - Understanding Belief Propagation and its Generalizations [[link](http://www.merl.com/publications/docs/TR2001-22.pdf)]
 - Introduction to Conditinal Random Fields [[link](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)]
@@ -23,11 +22,8 @@
 - Hidden Markov Model (by Sebastian Thrun) [[link](https://www.youtube.com/playlist?list=PLKG3ExuC02lsnZUJDdOlYJd5CRe3otzq1)]
 
 ### Plan (Every Saturday)
-- 11/26 - No study
-- 12/4 (SUN; 11:00AM) - Ch. 14, 17, 18
-- 12/10 - No study
-- 12/17 - Ch. 21, 22, 23
-- Skip: Ch. 15 (Decision Thoery; Already convered),  Ch. 16 (Andrew Ng's ML)
+- 12/31: Ch. 18, 19, 20, 21, 22, 23
+
 
 ## Members (Introduce Yourself)
 - 조재민 (j-min)
